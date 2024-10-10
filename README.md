@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Pubordee Khaopaisarn, I'm a software engineer pursuing Master's in Computer Science with prior background in music and recording technology!
+
 <!--
 **pkhao75/pkhao75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
